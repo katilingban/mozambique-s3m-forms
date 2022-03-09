@@ -16,7 +16,7 @@ for (f in list.files(here::here("R"), full.names = TRUE)) source (f)
 # Groups of targets ------------------------------------------------------------
 
 ## Form/questionnaire development
-xlsform_test_setup <- tar_plan(
+xlsform_setup <- tar_plan(
   ## Download endline xlsform from googledrive
   tar_target(
     name = xlsform_file,
