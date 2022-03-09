@@ -52,8 +52,8 @@ instructions
 ## Workflow for form deployment to ONA via R
 
 This repository is also a
-`{[targets](https://docs.ropensci.org/targets/)}`-based,
-`{[renv](https://rstudio.github.io/renv/articles/renv.html)}`-enabled,
+[`{targets}`](https://docs.ropensci.org/targets/)-based,
+[`{renv}`]((https://rstudio.github.io/renv/articles/renv.html))-enabled,
 and [Docker](https://www.docker.com/)-containerised workflow for
 automated deployment of the form to [ONA](https://ona.io/) via [GitHub
 Actions](https://github.com/features/actions).
