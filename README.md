@@ -4,6 +4,11 @@
 # UNICEF Mozambique Open Data Kit Form for the Simple Spatial Survey Method (S3M) in Sofala Province
 
 <!-- badges: start -->
+
+![GitHub release (latest by
+date)](https://img.shields.io/github/v/release/katilingban/mozambique-s3m-forms)
+[![](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/katilingban/mozambique-s3m-forms/blob/main/LICENSE.md)
+[![DOI](https://zenodo.org/badge/467389800.svg)](https://zenodo.org/badge/latestdoi/467389800)
 <!-- badges: end -->
 
 This repository contains the Simple Spatial Survey Method (S3M) survey
